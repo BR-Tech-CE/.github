@@ -33,9 +33,9 @@ Nossos serviços incluem:
 
 Estamos sempre abertos a colaborações e adoramos trabalhar em projetos inovadores. Se você está interessado em colaborar ou tem alguma pergunta, entre em contato conosco.
 
-- Site: [www.nossasoftwarehouse.com](https://www.nossasoftwarehouse.com)
-- Email: [contato@nossasoftwarehouse.com](mailto:contato@nossasoftwarehouse.com)
-- Twitter: [@nossasoftwarehouse](https://twitter.com/nossasoftwarehouse)
-- LinkedIn: [Nossa Software House](https://www.linkedin.com/company/nossasoftwarehouse)
+- Site: [brtech.dev](https://www.brtech.dev)
+- Email: [atendimento@brtech.dev](mailto:atendimento@brtech.dev)
+- Instagram: [@brtech.soft](https://twitter.com/brtech.soft)
+- LinkedIn: [Abrir perfil](https://www.linkedin.com/in/brtech-digital-53013126b/)
 
 Junte-se a nós em nossa missão de transformar ideias em realidade com software poderoso e eficiente!
